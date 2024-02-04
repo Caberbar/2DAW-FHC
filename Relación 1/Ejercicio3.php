@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+</head>
+
+<body>
+    <table>
+        <tr>
+            <td>Carrot</td>
+            <td>Zanahoria</td>
+        </tr>
+        <tr>
+            <td>Apple</td>
+            <td>Manzana</td>
+        </tr>
+        <tr>
+            <td>Pear</td>
+            <td>Pera</td>
+        </tr>
+        <tr>
+            <td>Banana</td>
+            <td>Banana</td>
+        </tr>
+        <tr>
+            <td>Onion</td>
+            <td>Cebolla</td>
+        </tr>
+        <tr>
+            <td>Tomato</td>
+            <td>Tomate</td>
+        </tr>
+        <tr>
+            <td>Letucce</td>
+            <td>Lechuga</td>
+        </tr>
+        <tr>
+            <td>Olive</td>
+            <td>Aceituna</td>
+        </tr>
+        <tr>
+            <td>Fish</td>
+            <td>Pescado</td>
+        </tr>
+        <tr>
+            <td>Milk</td>
+            <td>Leche</td>
+        </tr>
+    </table>
+</body>
+
+</html>
