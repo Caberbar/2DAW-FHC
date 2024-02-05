@@ -15,7 +15,7 @@ This repository is a resource for the Freely Configurable Hours subject. Here yo
 - CSS3
 - PHP
 
-##Contact
+## Contact
 
 For any questions or comments, feel free to get in touch:
 
